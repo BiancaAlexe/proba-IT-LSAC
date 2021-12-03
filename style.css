@@ -1,0 +1,318 @@
+    body {
+        background-color: white;
+    }
+    
+    #login {
+        background-image: url("Asset 6 2.png");
+        background-repeat: no-repeat;
+        width: 873px;
+        height: 211px;
+        margin-top: -29px;
+        margin-left: 600px;
+    }
+    
+    #login p {
+        border: 2px solid #272A45;
+        border-radius: 30px;
+        background-color: #272A45;
+        padding: 5px;
+        text-align: center;
+    }
+    
+    .log {
+        position: absolute;
+        color: white;
+        width: 117px;
+        height: 25px;
+        margin-left: 162px;
+        margin-top: 49px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 28.11px;
+    }
+    
+    .cont {
+        position: absolute;
+        color: white;
+        width: 139px;
+        height: 25px;
+        margin-left: 415px;
+        margin-top: 49px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 28.11px;
+    }
+    
+    .contact {
+        position: absolute;
+        color: white;
+        width: 120px;
+        height: 25px;
+        margin-left: 687px;
+        margin-top: 49px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 28.11px;
+    }
+    
+    #title {
+        position: absolute;
+        width: 340px;
+        height: 86px;
+        top: 29px;
+        left: 57px;
+    }
+    
+    #introduction img {
+        width: 550px;
+        height: 535px;
+        margin-top: 0px;
+        margin-left: 900px;
+    }
+    
+    #introduction p {
+        margin-left: 212px;
+    }
+    
+    #subtitle1 p {
+        /*width: 400px;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 56.23px;*/
+        position: absolute;
+        width: 492px;
+        /*height: 140px;*/
+        left: 0px;
+        top: 315px;
+        font-family: Droid Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 48px;
+        line-height: 56px;
+        color: #000000;
+    }
+    
+    #description1 p {
+        position: absolute;
+        width: 422px;
+        height: 131px;
+        left: 0px;
+        top: 474px;
+        font-family: Droid Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 36px;
+        line-height: 42px;
+        color: #000000;
+    }
+    
+    #subtitle2 {
+        position: absolute;
+        width: 426px;
+        height: 56px;
+        left: 510px;
+        top: 800px;
+        font-family: Droid Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 48px;
+        line-height: 56px;
+        color: white;
+    }
+    
+    #text1 {
+        position: absolute;
+        width: 531px;
+        height: 70px;
+        left: 166px;
+        top: 939px;
+        font-family: Droid Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+        color: white;
+    }
+    
+    #text2 {
+        position: absolute;
+        width: 428px;
+        height: 70px;
+        left: 797px;
+        top: 939px;
+        font-family: Droid Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+        color: white;
+    }
+    
+    #teach {
+        position: absolute;
+        width: 78px;
+        height: 28px;
+        left: 327px;
+        top: 1079px;
+        font-family: Droid Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 28px;
+    }
+    
+    #learn {
+        position: absolute;
+        width: 56px;
+        height: 28px;
+        left: 933px;
+        top: 1079px;
+        font-family: Droid Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 28px;
+    }
+    
+    #buttons p {
+        border: 2px solid #afd0ff;
+        border-radius: 30px;
+        background: linear-gradient(to bottom, #afd0ff 100%, #b2eeff 100%, #afd1ff 0%);
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-right: 150px;
+        padding-left: 120px;
+    }
+    
+    .pair {
+        border: 2px solid #272A45;
+        border-radius: 40px;
+        background-color: #272A45;
+        width: 1100px;
+        height: 410px;
+        margin-top: 80px;
+        margin-left: 127px;
+        padding-top: 15px;
+        padding-bottom: 5px;
+        padding-right: 0px;
+        padding-left: 100px;
+        box-shadow: -40px -40px #AEC5FF;
+    }
+    
+    #subtitle3 {
+        position: absolute;
+        width: 515px;
+        height: 70px;
+        margin-left: 143px;
+        margin-top: 100px;
+        font-family: Droid Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 64px;
+        line-height: 75px;
+        color: #000000;
+    }
+    
+    #backgroundopac img {
+        position: absolute;
+        width: 1102px;
+        height: 817px;
+        margin-left: 260px;
+        margin-top: 20px;
+    }
+    /*  
+    #tcname p {
+        width: 83.7px;
+        height: 32.1px;
+        margin-left: 509px;
+        margin-top: 800px;
+        font-family: Droid Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 28px;
+        color: #000000;
+    }
+    
+    #tcemail p {
+        margin-top: 30px;
+        width: 83.7px;
+        height: 32.1px;
+        margin-left: 509px;
+        font-family: Droid Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 28px;
+        color: #000000;
+    }
+    
+    #tcemail p {
+        margin-top: 800px;
+    }*/
+    
+    * {
+        box-sizing: border-box;
+    }
+    /* Style inputs */
+    
+    input[type=text],
+    select,
+    textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid black;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+    }
+    
+    input[type=trimite] {
+        background-color: #afd0ff;
+        color: black;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 30px;
+        cursor: pointer;
+        text-align: center;
+    }
+    
+    input[type=trimite]:hover {
+        background-color: #afd0ff;
+    }
+    /* Style the container/contact section */
+    
+    .container {
+        border-radius: 5px;
+        background-color: #fff;
+        padding: 10px;
+    }
+    /* Create two columns that float next to eachother */
+    
+    .column {
+        float: left;
+        width: 50%;
+        margin-top: 6px;
+        padding: 20px;
+    }
+    /* Clear floats after the columns */
+    
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+    /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+    
+    @media screen and (max-width: 600px) {
+        .column,
+        input[type=submit] {
+            width: 100%;
+            margin-top: 0;
+        }
+    }
